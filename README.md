@@ -20,3 +20,7 @@ Embedded system project with Bluetooth control and obstacle avoidance.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imMadhan&show_icons=true&theme=tokyonight)
+---
+
+📫 **Connect with me:**  
+- LinkedIn: [Madhan Palmani](https://www.linkedin.com/in/madhan-palmani-4785b32a4)

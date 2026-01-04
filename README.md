@@ -16,4 +16,7 @@ IoT-based project to monitor and display weather data.
 
 🔹 **Obstacle Avoiding Bluetooth Robot**  
 Embedded system project with Bluetooth control and obstacle avoidance.
+---
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imMadhan&show_icons=true&theme=tokyonight)

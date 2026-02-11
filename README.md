@@ -10,21 +10,24 @@
 
 ## 🚀 Projects
 
+### 🌐 Portfolio Website
+Personal developer portfolio showcasing projects and skills  
+🔗 https://madhan-portfolio-07.lovable.app/
+
 ### 🛒 Shop Management System (PHP + MySQL)
-Full-stack web application with admin dashboard, product management, cart system, and order tracking.  
-🔗 https://github.com/imMadhan/shop-management  
+Full-stack admin & user panel with cart and order system  
+🔗 Source Code: https://github.com/imMadhan/shop-management  
+⚙️ Runs on: XAMPP (Apache + MySQL)
 
 ### 🔐 Web Application Vulnerability Scanner
-Security tool to detect common web vulnerabilities for cybersecurity learning and testing.  
+Advanced security scanner for detecting OWASP vulnerabilities  
 🔗 https://github.com/imMadhan/web-vulnerability-scanner  
 
-### 🌦 Weather Monitoring System (IoT)
-IoT-based solution to monitor real-time weather data and display analytics.  
+### 🌦 Weather Monitoring System
+IoT-based environmental monitoring project  
 
-### 🤖 Obstacle Avoiding Bluetooth Robot
-Embedded system project with Bluetooth control and automatic obstacle detection.
-
----
+### 🤖 Obstacle Avoiding Robot
+Embedded system with Bluetooth control
 
 ## 🧠 Skills
 
